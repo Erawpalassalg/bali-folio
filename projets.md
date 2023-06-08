@@ -2,6 +2,7 @@
 layout: page
 title: projets 
 permalink: /
+navpos: 1
 ---
 
 {% for project in site.projets %}

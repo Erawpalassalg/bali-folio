@@ -2,6 +2,7 @@
 layout: page
 title: nouvelles
 permalink: /nouvelles/
+navpos: 2
 ---
 
 <ul class="post-list">

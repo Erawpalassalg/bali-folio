@@ -2,6 +2,7 @@
 layout: page
 title: bali 
 permalink: /bali/
+navpos: 0
 ---
 
 <img class="col one right" src="{{site.baseurl}}/img/prof_pic.jpg">
