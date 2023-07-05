@@ -37,10 +37,10 @@ En 2018, RTE cède le bâti à l’association Une Famille Un Toit 44 pour la r�
 
 
 <div clas="img_row">
-    <img class="col two" src="{{ site.baseurl }}/img/wGIL/planRDC.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wGIL/planRDC.jpg"/>
 </div>
 
 
 <div clas="img_row">
-    <img class="col two" src="{{ site.baseurl }}/img/wGIL/planR+1.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wGIL/planR+1.jpg"/>
 </div>
