@@ -2,7 +2,7 @@
 layout: post
 title: BAU
 description: Collectif
-img: /img/DVL/DVL_photo1.jpg
+img: /img/wBAU/BAU_01.jpg
 ---
 
 <div clas="img_row">
