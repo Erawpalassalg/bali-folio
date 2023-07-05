@@ -99,6 +99,14 @@ width:100%;
     margin-bottom: 0; // Remove margin set in _sass/_base.scss for vertical rythm
 }
 
+.site-footer a {
+    color: white;
+    padding: 0 4px 0 4px;
+    &:hover {
+        color: $red;
+    }
+}
+
 /**
  * Pagination   **********************************************************
  */
@@ -147,7 +155,7 @@ margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
 font-size: 42px;
-letter-spacing: -1px;
+letter-spacing: 0.15rem;
 line-height: 1;
 @include media-query($on-laptop) {
 font-size: 36px;
@@ -240,7 +248,7 @@ top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
+background: rgba(255,105,180,0.4);
 color: $grey-color-light;
 padding: 40px;
 text-align: center;
@@ -259,7 +267,7 @@ height: $img_height;
 width: 100%;
 overflow: hidden;
 box-sizing:border-box;
-padding: $img_spacing;
+//padding: $img_spacing;
 }
 .col{ 
 width: 100%;
