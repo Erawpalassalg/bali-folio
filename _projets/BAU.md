@@ -6,7 +6,7 @@ img: /img/DVL/DVL_photo1.jpg
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/DVL/DVL_photo1.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wBAU/BAU_01.jpg"/>
 </div>
 
 ```
