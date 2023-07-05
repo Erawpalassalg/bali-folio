@@ -26,19 +26,21 @@ $caption_color: #aaa;
 
 /* COLORS  */
 $red:  #FF3636;
+$pink: rgb(255,105,180);
 $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$white: #fff;
 
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$text-color:     #000;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $pink;
 
 
 /************************************************************/
@@ -55,6 +57,7 @@ body {
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     letter-spacing: $base-letter-spacing;
+    background-color: $white;
 }
 
 
