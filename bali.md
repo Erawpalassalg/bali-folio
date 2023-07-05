@@ -16,5 +16,4 @@ This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/"
 
 Une _phrase_ pour faire un **essai**
 
-et un paragraphe pour faire un essai
-de parapraghe avec une retour à la ligne.
+et un paragraphe pour faire un essai de parapraghe \ avec une retour à la ligne.
