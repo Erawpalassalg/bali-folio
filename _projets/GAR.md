@@ -13,7 +13,7 @@ img: /img/DVL/DVL_photo1.jpg
 LIEU                Vigneux-de-Bretagne (44)
 DATE                livraison fin 2023
 PROGRAMME           rénovation d'une maison individuelle et de ses annexes
-MAÎTRISE D’OUVRAGE  privée
+MOA  		    privée
 SURFACE             160 m2 SP + 800 m2 jardin
 BUDGET              300 000 € HT
 MISSION             base
