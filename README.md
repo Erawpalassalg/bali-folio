@@ -71,8 +71,11 @@ Les \[publications à propos des\] projets sont situés dans le dossier [\_proje
 
 Toutes les publications ont un en-tête, qui contiennent ses metadonnées. Le format pour les projets est le suivant :
 
-```
----yaml                                                                    layout: post                                                               title: le_titre_du_projet                                                   description: un_sous_titre_un_peu_plus_long
+```yaml
+---
+layout: post
+title: le_titre_du_projet
+description: un_sous_titre_un_peu_plus_long
 img: /img/DVL/DVL_photo1.jpg # un exemple                                   
 --- 
 ```
