@@ -40,4 +40,5 @@ Le reste de la parcelle est laissée aux expérimentations potagères des occupa
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/DVL/photo6.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/DVL/BRA.jpg" alt="" title="example image"/>
 </div>
