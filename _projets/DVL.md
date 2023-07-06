@@ -41,5 +41,5 @@ Le reste de la parcelle est laissée aux expérimentations potagères des occupa
 <iframe width="100%" height="800" src="{{ site.baseurl }}/plan/DVL/plan.pdf"></iframe>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/DVL/DVL_photo6.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/DVL/photo6.jpg" alt="" title="example image"/>
 </div>
