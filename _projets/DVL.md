@@ -38,8 +38,6 @@ Brut et délicat, le volume sculpté émerge du sol rocheux et bruisse aux vents
 
 Le reste de la parcelle est laissée aux expérimentations potagères des occupants. Véritable paysage habité, le jardin a fait l’objet d’un relevé minutieux afin d’engager la deuxième phase de ce projet : une extension de l’atelier et un ménagement des espaces extérieurs.
 
-<iframe width="100%" height="800" src="{{ site.baseurl }}/plan/DVL/plan.pdf"></iframe>
-
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/DVL/photo6.jpg" alt="" title="example image"/>
 </div>
