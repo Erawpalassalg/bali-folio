@@ -6,7 +6,7 @@ img: /img/wGAR_MAISON/maison1.gif
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/GAR/photo1.gif"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/photo1.gif"/>
 </div>
 
 ```
@@ -26,20 +26,20 @@ Il vise à connecter les espaces construits à la nature et au grand paysage, le
 Le bâtiment d’habitation principale est restructuré en profondeur. L’escalier est déplacé sur deux niveaux pour retrouver une position centrale, dégageant ainsi la façade nord, agrémentée de généreux percements sur le jardin.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/GAR_MAISON/maison1.gif" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.gif" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/GAR_MAISON/maison2.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison2.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/GAR_MAISON/maison3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison3.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/GAR_MAISON/maison4.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison4.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/GAR_MAISON/maison5.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison5.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/GAR_MAISON/maison6.gif" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison6.gif" alt="" title="example image"/>
 </div>
