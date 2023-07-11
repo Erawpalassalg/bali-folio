@@ -2,7 +2,7 @@
 layout: post
 title: GAR maison
 description: rénovation d'une maison individuelle
-img: /img/GAR/photo1.gif
+img: /img/wGAR_MAISON/maison1.gif
 ---
 
 <div clas="img_row">
