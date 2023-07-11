@@ -2,11 +2,11 @@
 layout: post
 title: GAR
 description: rénovation d'une maison individuelle et de ses annexes
-img: /img/DVL/DVL_photo1.jpg
+img: /img/GAR/photo1.gif
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/GAR/photo1"/>
+    <img class="col three" src="{{ site.baseurl }}/img/GAR/photo1.gif"/>
 </div>
 
 ```
