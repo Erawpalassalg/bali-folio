@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GAR maison
-description: rénovation d'une maison individuelle
+description: Belle des Champs
 img: /img/wGAR_MAISON/maison1.gif
 ---
 
@@ -12,10 +12,10 @@ img: /img/wGAR_MAISON/maison1.gif
 ```
 LIEU                Vigneux-de-Bretagne (44)
 DATE                livraison fin 2023
-PROGRAMME           transformation d’un domaine agricole en un lieu de rassemblement, de création et de bien-être
+PROGRAMME           rénovation d’une maison individuelle
 MOA  		    privée
 SURFACE             208 m²
-BUDGET              340 000 € HT
+BUDGET              340 k€ HT
 MISSION             complète
 ÉQUIPE              studio bali, ACS Chantal (structure)
 ```
@@ -26,7 +26,6 @@ Il vise à connecter les espaces construits à la nature et au grand paysage, le
 Le bâtiment d’habitation principale est restructuré en profondeur. L’escalier est déplacé sur deux niveaux pour retrouver une position centrale, dégageant ainsi la façade nord, agrémentée de généreux percements sur le jardin.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.gif" alt="" title="example image"/>
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison2.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
