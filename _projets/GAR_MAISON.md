@@ -14,7 +14,7 @@ LIEU                Vigneux-de-Bretagne (44)
 DATE                livraison fin 2023
 PROGRAMME           transformation d’un domaine agricole en un lieu de rassemblement, de création et de bien-être
 MOA  		    privée
-SURFACE             08 m²
+SURFACE             208 m²
 BUDGET              340 000 € HT
 MISSION             complète
 ÉQUIPE              studio bali, ACS Chantal (structure)
