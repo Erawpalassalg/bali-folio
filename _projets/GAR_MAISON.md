@@ -6,7 +6,7 @@ img: /img/wGAR_MAISON/maison1.gif
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/photo1.gif"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.gif"/>
 </div>
 
 ```
