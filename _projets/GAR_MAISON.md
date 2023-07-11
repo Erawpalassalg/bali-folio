@@ -27,8 +27,6 @@ Le bâtiment d’habitation principale est restructuré en profondeur. L’escal
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.gif" alt="" title="example image"/>
-</div>
-<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison2.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
