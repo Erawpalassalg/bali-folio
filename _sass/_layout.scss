@@ -265,7 +265,7 @@ display: block;
 background: $theme-color;
 }
 .img_row{
-height: $img_height;
+//height: $img_height;
 width: 100%;
 overflow: hidden;
 box-sizing:border-box;
@@ -277,7 +277,10 @@ height: 100%;
 float: left;
 object-fit: cover;
 box-sizing:border-box;
-padding: $img_spacing;
+
+  &:not(:first-child) {
+    padding-left: $img_spacing;
+  }
 }
 .right{
 float: right;
