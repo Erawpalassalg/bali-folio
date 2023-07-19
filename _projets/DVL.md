@@ -3,6 +3,7 @@ layout: post
 title: DVL
 description: atelier & jardin
 img: /img/DVL/DVL_photo1.jpg
+date: 2017-05-09
 ---
 
 <div clas="img_row">

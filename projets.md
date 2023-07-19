@@ -5,7 +5,8 @@ permalink: /
 navpos: 1
 ---
 
-{% for project in site.projets %}
+{% assign projects=site.projets | sort: "date" %}
+{% for project in projects reversed %}
 
 {% if project.redirect %}
 <div class="project">
