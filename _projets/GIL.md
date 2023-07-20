@@ -2,7 +2,7 @@
 layout: post
 title: GIL
 description: La halte de la Gilarderie
-img: /img/GIL/GIL_thumbnail.jpg
+img: /img/GIL/GIL_thumbnail.JPG
 ---
 
 <div clas="img_row">
