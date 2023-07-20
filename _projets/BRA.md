@@ -2,7 +2,7 @@
 layout: post
 title: BRA
 description: La maison du sabotier
-img: /img/wBRA/image1.gif
+img: /img/wBRA/BRA_thumbnail.gif
 ---
 
 <div clas="img_row">
