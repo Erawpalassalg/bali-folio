@@ -2,11 +2,11 @@
 layout: post
 title: GAR maison
 description: Belle des Champs
-img: /img/wGAR_MAISON/maison1.gif
+img: /img/wGAR_MAISON/GAR_M_thumbnail.gif
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/GAR_M_thumbnail.gif"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.gif"/>
 </div>
 
 ```
