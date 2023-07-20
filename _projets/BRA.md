@@ -30,5 +30,5 @@ MISSION             complète
 </div>
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wBRA/planR+1.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wBRA/plan R+1.jpg"/>
 </div>
