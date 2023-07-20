@@ -2,11 +2,11 @@
 layout: post
 title: BRA
 description: La maison du sabotier
-img: /img/wBRA/photo1.jpg
+img: /img/wBRA/image1.gif
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wBRA/photo1.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wBRA/image1.gif"/>
 </div>
 
 ```
@@ -22,5 +22,13 @@ MISSION             complète
 ```
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wBRA/photo2.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wBRA/image2.jpg"/>
+</div>
+
+<div clas="img_row">
+    <img class="col three" src="{{ site.baseurl }}/img/wBRA/planRDC.jpg"/>
+</div>
+
+<div clas="img_row">
+    <img class="col three" src="{{ site.baseurl }}/img/wBRA/planR+1.jpg"/>
 </div>
