@@ -13,7 +13,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 <br> **<FONT size="10px"> LOGEMENT COLLECTIF</FONT>**
 
-<FONT size="8px"> BRA </FONT>
+<FONT size="8px"> BRAF </FONT>
 <br> rénovation d’une maison de bourg en pierre
 <br> pour l’accueil d’une famille de gens du voyage
 <br> 120 m2 sp | 225 k€ ht | études en cours
