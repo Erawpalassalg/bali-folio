@@ -12,11 +12,11 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 
 <FONT size="10pt"> **LOGEMENT COLLECTIF** </FONT>
-<FONT size="8pt"> BRA </FONT>
+<br> <FONT size="8pt"> BRA </FONT>
 <br> rénovation d’une maison de bourg en pierre
-pour l’accueil d’une famille de gens du voyage
-120 m2 sp | 225 k€ ht | études en cours
-Une Famille Un Toit 44 | Brains (44)
+<br> pour l’accueil d’une famille de gens du voyage
+<br> 120 m2 sp | 225 k€ ht | études en cours
+<br> Une Famille Un Toit 44 | Brains (44)
 
 
 Une _phrase_ pour faire un **essai**
