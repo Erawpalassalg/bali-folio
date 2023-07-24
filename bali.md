@@ -11,7 +11,7 @@ navpos: 0
 Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
 
-<br> **<FONT size="2em"> LOGEMENT COLLECTIF</FONT>**
+<br> **<FONT size="2em"> | LOGEMENT COLLECTIF</FONT>**
 
 <FONT size="1em"> BRA </FONT>
 <br> rénovation d’une maison de bourg en pierre
