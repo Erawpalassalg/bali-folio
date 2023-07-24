@@ -5,7 +5,7 @@ permalink: /bali/
 navpos: 0
 ---
 
-<img class="col one right" src="{{site.baseurl}}/img/prof_pic.jpg">
+<img class="col one right" src="{{site.baseurl}}/img/wBALI/photo1.jpg">
 
 <br/>. studio bali est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant
 <br>. studio bali porte des projets à forte dimension sociale et oeuvre pour une fabrique coopérative de la ville et des territoires.
