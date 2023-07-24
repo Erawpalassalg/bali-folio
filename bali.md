@@ -22,9 +22,9 @@ pour l’accueil d’une famille de gens du voyage
 120 m2 sp | 225 k€ ht | études en cours
 Une Famille Un Toit 44 | Brains (44) </FONT>
 
-<br><FONT size="2em"> BAU </FONT>
+<br><div style="line-height:0,8;"><FONT size="2em"> BAU </FONT>
 <FONT size="1em">construction d’un immeuble de logement
 structure bois/paille
 380 m2 sp | 750 k€ ht | faisabilité
-promotion privée | Rezé (44) </FONT>
+promotion privée | Rezé (44) </FONT></div>
 
