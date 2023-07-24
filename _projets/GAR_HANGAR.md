@@ -26,11 +26,13 @@ Il vise à connecter les espaces construits à la nature et au grand paysage, le
 Les bâtiment annexes sont eux aussi sérieusement remaniés pour accueillir de multiples activités artistiques et thérapeutiques, en immersion dans la nature. Le toit et les murs sont isolés avec des matériaux biosourcés (lin-chanvre-coton, laine de bois, paille). De larges débords de toiture viennent protéger les pieds de façade et les nouvelles ouvertures créées.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar2.jpg" alt="" title="example image"/>
+	<img class="col two right" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar2.jpg" alt="" title="example image"/>
 </div>
+<br>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar3.jpg" alt="" title="example image"/>
 </div>
+<br>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar4.jpg" alt="" title="example image"/>
 </div>
