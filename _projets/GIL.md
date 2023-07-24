@@ -28,8 +28,8 @@ La presse couvre l’évènement, des collectifs de soutien se mobilisent et la 
 En 2018, RTE cède le bâti à l’association Une Famille Un Toit 44 pour la réalisation d’un projet de logement d’accueil transitoire à destination de personnes exilées et la maîtrise d’œuvre revient à studio bali. La maçonnerie est remise à nu, des frangements viennent reconnecter les trois maisons et redéfinir un fonctionnement modulable et collectif, les loggias sont réintégrées à l’espace habitable par de larges baies et le jardin est repensé dans une ouverture sur le quartier. Malgré son caractère très social, ce projet porte les valeurs d’une architecture durable et confortable.
 
 <div clas="img_row">
-    <img class="col one" src="{{ site.baseurl }}/img/wGIL/photo1.jpg"/>
-    <img class="col one" src="{{ site.baseurl }}/img/wGIL/photo2.jpg"/>
+    <img class="col one" src="{{ site.baseurl }}/img/wGIL/photo1.gif"/>
+    <img class="col one" src="{{ site.baseurl }}/img/wGIL/photo2.gif"/>
     <img class="col one" src="{{ site.baseurl }}/img/wGIL/photo3.jpg"/>
 </div>
 
