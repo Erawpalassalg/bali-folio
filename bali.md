@@ -13,7 +13,7 @@ navpos: 0
 <br>. studio bali développe une expertise de réhabilitation du bâti ancien et récent dans le cadre de rénovations lourdes (rénovation thermique, transformation, augmentation).
 <br>. studio bali intervient à toutes les échelles de projet, de l’étude préliminaire à la mission complète, mais aussi dans l’organisation et l’encadrement de chantiers participatifs.
 
-
+<br>
 **<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
 
 <FONT size="2em"> BRA </FONT> <br>
