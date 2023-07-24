@@ -16,11 +16,11 @@ navpos: 0
 <br>
 **<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
 
-<p><FONT size="2em"> BRA </FONT>
+<p><div style="line-height:2;"><FONT size="2em"> BRA </FONT>
 <FONT size="1em">rénovation d’une maison de bourg en pierre<br>
 pour l’accueil d’une famille de gens du voyage<br>
 120 m2 sp | 225 k€ ht | études en cours<br>
-Une Famille Un Toit 44 | Brains (44) </FONT></p>
+Une Famille Un Toit 44 | Brains (44) </FONT></div></p>
 
 <p><div style="line-height:1;"><FONT size="2em"> BAU </FONT><br>
 <FONT size="1em">construction d’un immeuble de logement<br>
