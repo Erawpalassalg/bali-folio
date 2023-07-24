@@ -12,14 +12,16 @@ navpos: 0
 <br>. studio bali porte des projets à forte dimension sociale et oeuvre pour une fabrique coopérative de la ville et des territoires.
 
 
-<br> **<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
+**<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
 <br> <FONT size="2em"> BRA </FONT>
 <br> <FONT size="1em">rénovation d’une maison de bourg en pierre
 <br> pour l’accueil d’une famille de gens du voyage
 <br> 120 m2 sp | 225 k€ ht | études en cours
 <br> Une Famille Un Toit 44 | Brains (44) </FONT>
 
+<FONT size="2em"> BAU </FONT>
+<br> <FONT size="1em">construction d’un immeuble de logement
+<br> structure bois/paille
+<br> 380 m2 sp | 750 k€ ht | faisabilité
+<br> promotion privée | Rezé (44) </FONT>
 
-Une _phrase_ pour faire un **essai**
-
-et un paragraphe pour faire un essai de parapraghe <br> avec une retour à la ligne.
