@@ -11,9 +11,9 @@ navpos: 0
 Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
 
-<br><FONTsize="15pt"> **LOGEMENT COLLECTIF** </FONT>
+<br> <FONT size="15pt"> **LOGEMENT COLLECTIF** </FONT>
 
-<FONTsize="12pt"> BRA </FONT>
+<FONT size="12pt"> BRA </FONT>
 <br> rénovation d’une maison de bourg en pierre
 <br> pour l’accueil d’une famille de gens du voyage
 <br> 120 m2 sp | 225 k€ ht | études en cours
