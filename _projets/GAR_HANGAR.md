@@ -29,9 +29,11 @@ Les bâtiment annexes sont eux aussi sérieusement remaniés pour accueillir de 
 	<img class="col two right" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar2.jpg" alt="" title="example image"/>
 </div>
 <br>
+<br>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar3.jpg" alt="" title="example image"/>
 </div>
+<br>
 <br>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_HANGAR/hangar4.jpg" alt="" title="example image"/>
