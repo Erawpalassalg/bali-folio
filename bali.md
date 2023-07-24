@@ -8,7 +8,8 @@ navpos: 0
 <img class="col one right" src="{{site.baseurl}}/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+. studio bali est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant
+<br>. studio bali porte des projets à forte dimension sociale et oeuvre pour une fabrique coopérative de la ville et des territoires.
 
 
 <br> **<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
