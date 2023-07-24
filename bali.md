@@ -28,3 +28,8 @@ structure bois/paille<br>
 380 m2 sp | 750 k€ ht | faisabilité<br>
 promotion privée | Rezé (44) </FONT></div></p>
 
+<p><div style="line-height:1;"><FONT size="2em"> GIL </FONT><br>
+<FONT size="1em">transformation de trois maisons en logements transitoires<br>
+pour des personnes exilées<br>
+443 m2 sp | 480 k€ ht | chantier en cours<br>
+Une Famille Un Toit 44 | Nantes (44) </FONT></div></p>
