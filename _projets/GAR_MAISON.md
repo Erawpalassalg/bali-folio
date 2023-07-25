@@ -2,7 +2,7 @@
 layout: post
 title: GAR maison
 description: Belle des Champs
-img: /img/wGAR_MAISON/GAR_M_thumbnail.gif
+img: /img/wGAR_MAISON/GAR_M_thumbnail.jpg
 ---
 
 <div clas="img_row">
