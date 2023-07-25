@@ -7,7 +7,7 @@ navpos: 0
 
 <img class="col one right" src="{{site.baseurl}}/img/wBALI/photo1.jpg">
 
-<br/>**studio bali** est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant. <br>
+**studio bali** est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant. <br>
 **studio bali** porte des projets à forte dimension sociale et oeuvre pour une fabrique coopérative de la ville et des territoires.<br>
 **studio bali** est impliqué dans des projets de tiers-lieu, d’habitats individuels et collectifs, avec une appétence particulière pour les matériaux biosourcés, l’esthétique pragmatique et le réemploi.<br>
 **studio bali** développe une expertise de réhabilitation du bâti ancien et récent dans le cadre de rénovations lourdes (rénovation thermique, transformation, augmentation).<br>
