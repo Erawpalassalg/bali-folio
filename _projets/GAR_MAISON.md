@@ -6,7 +6,7 @@ img: /img/wGAR_MAISON/GAR_M_thumbnail.gif
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.gif"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison1.jpg"/>
 </div>
 
 ```
@@ -43,4 +43,16 @@ Le bâtiment d’habitation principale est restructuré en profondeur. L’escal
 <br>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison6.gif" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison7.gif" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/RDC.jpg" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/ETAGES.jpg" alt="" title="example image"/>
 </div>
