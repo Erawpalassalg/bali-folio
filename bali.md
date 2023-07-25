@@ -13,8 +13,8 @@ navpos: 0
 **studio bali** développe une expertise de réhabilitation du bâti ancien et récent dans le cadre de rénovations lourdes (rénovation thermique, transformation, augmentation).<br>
 **studio bali** intervient à toutes les échelles de projet, de l’étude préliminaire à la mission complète, mais aussi dans l’organisation et l’encadrement de chantiers participatifs.<br>
 **studio bali** accompagne les auto-constructeurs dans leurs projets individuels ou collectifs.<br>
-**studio bali** est membre de l’association Architectes De La Rénovation (ADLR).
-**studio bali** est membre du RFCP (Réseau Français de la Construction Paille).
+**studio bali** est membre de l’association Architectes De La Rénovation (ADLR).<br>
+***studiobali*** est membre du RFCP (Réseau Français de la Construction Paille).
 
 <br>
 **<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
