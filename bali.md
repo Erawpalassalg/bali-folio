@@ -7,7 +7,7 @@ navpos: 0
 
 <img class="col one right" src="{{site.baseurl}}/img/wBALI/photo1.jpg">
 
-<br/>. studio bali est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant
+<br/><div style="line-height:1;">. studio bali est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant
 
 . studio bali porte des projets à forte dimension sociale et oeuvre pour une fabrique coopérative de la ville et des territoires.
 
@@ -21,7 +21,7 @@ navpos: 0
 
 . studio bali est membre de l’association Architectes De La Rénovation (ADLR).
 
-. studio bali est membre du RFCP (Réseau Français de la Construction Paille).
+. studio bali est membre du RFCP (Réseau Français de la Construction Paille).</div>
 
 <br>
 **<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
