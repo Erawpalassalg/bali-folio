@@ -43,7 +43,7 @@ Une Famille Un Toit 44 | Nantes (44) </FONT></div></p>
 
 <p><div style="line-height:1;"><FONT size="2em"> DVL </FONT><br>
 <FONT size="1em">atelier et jardin de l’artiste Livia Deville en bord de Sèvre<br>
-55 m2 sp | 90 k€ ht | phase 1 livré 2018 - phase 2 livré 2023<br>
+55 m<sup>2</sup> sp | 90 k€ ht | phase 1 livré 2018 - phase 2 livré 2023<br>
 commande privée | Rezé (44) </FONT></div></p>
 
 <p><div style="line-height:1;"><FONT size="2em"> GAR </FONT><br>
