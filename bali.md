@@ -26,7 +26,8 @@ Une Famille Un Toit 44 | Brains (44) </FONT></div></p>
 <p><div style="line-height:1;"><FONT size="2em"> BAU </FONT><br>
 <FONT size="1em">construction d’un immeuble de logement<br>
 structure bois/paille<br>
-**380 m2 sp | 750 k€ ht | faisabilité**<br>
+**380 m2 sp | 750 k€ ht | faisabilité**
+<br>
 promotion privée | Rezé (44) </FONT></div></p>
 
 <p><div style="line-height:1;"><FONT size="2em"> GIL </FONT><br>
