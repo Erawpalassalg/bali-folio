@@ -17,7 +17,7 @@ navpos: 0
 ***studiobali*** est membre du RFCP (Réseau Français de la Construction Paille).
 
 <br>
-**<FONT size="4em"> | LOGEMENT COLLECTIF</FONT>**
+# **| LOGEMENT COLLECTIF</FONT>**
 
 <p><FONT size="2em"> BRA </FONT><br>
 **<FONT size="1em">rénovation d’une maison de bourg en pierre<br>
