@@ -22,3 +22,6 @@ MISSION             complète
 
 ```
 
+<div clas="img_row">
+    <img class="col three" src="{{ site.baseurl }}/img/wBAU/plans.jpg"/>
+</div>
