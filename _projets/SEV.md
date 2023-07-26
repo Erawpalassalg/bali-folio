@@ -35,9 +35,25 @@ Peu à peu émerge le désir de brouiller les limites entre bâti et nature, de 
 </div>
 <br>
 <div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/PM.jpg" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wSEV/RDC.jpg" alt="" title="example image"/>
 </div>
 <br>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wSEV/R+1.jpg" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/photo1.jpg" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/photo2.jpg" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/photo3.jpg" alt="" title="example image"/>
 </div>
