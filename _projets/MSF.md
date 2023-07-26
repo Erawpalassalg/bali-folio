@@ -36,7 +36,7 @@ La patio permet un apport de lumière doux et constant tout au long de l'année 
 </div>
 <br>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/img/wMSF/image5.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wMSF/image5.jpg" alt="" title="example image"/>
 </div>
 <br>
 <div class="img_row">
