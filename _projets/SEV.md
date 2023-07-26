@@ -7,7 +7,7 @@ date: 2022-11-01
 ---
 
 <div clas="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/wMSF/image1.jpg"/>
+    <img class="col three" src="{{ site.baseurl }}/img/wSEV/image1.gif"/>
 </div>
 
 ```
@@ -35,25 +35,9 @@ Peu à peu émerge le désir de brouiller les limites entre bâti et nature, de 
 </div>
 <br>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/wSEV/image3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/RDC.jpg" alt="" title="example image"/>
 </div>
 <br>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/wSEV/image4.jpg" alt="" title="example image"/>
-</div>
-<br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/img/wSEV/image5.jpg" alt="" title="example image"/>
-</div>
-<br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/wSEV/image6.jpg" alt="" title="example image"/>
-</div>
-<br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/wSEV/image7.gif" alt="" title="example image"/>
-</div>
-<br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/wGAR_MAISON/maison7.gif" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/R+1.jpg" alt="" title="example image"/>
 </div>
