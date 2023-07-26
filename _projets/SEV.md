@@ -3,7 +3,7 @@ layout: post
 title: SEV
 description: La Maison de Madame
 img: /img/wSEV/SEV_thumbnail.jpg
-date: 2022-12-01
+date: 2022-11-01
 ---
 
 <div clas="img_row">
