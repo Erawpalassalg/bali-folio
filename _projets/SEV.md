@@ -51,6 +51,10 @@ Peu à peu émerge le désir de brouiller les limites entre bâti et nature, de 
 </div>
 <br>
 <div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/wSEV/axo.gif" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/wSEV/photo2.jpg" alt="" title="example image"/>
 </div>
 <br>
