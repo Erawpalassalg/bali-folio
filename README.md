@@ -24,10 +24,6 @@ Ce sont les cas d'utilisation facile du site. Ce pour quoi il est prévu, et qui
 
 ### Ajouter des Images sur le site
 
-#### Réduire la taille des images
-
-TODO
-
 #### Ajouter les images
 
 Les images se trouves dans le dossier [img](https://github.com/Erawpalassalg/bali-folio/tree/master/img), des images peuvent être uploadées dans le dossier simplement en utilisant le bouton en haut à droite.
@@ -71,11 +67,8 @@ Les \[publications à propos des\] projets sont situés dans le dossier [\_proje
 
 Toutes les publications ont un en-tête, qui contiennent ses metadonnées. Le format pour les projets est le suivant :
 
-```yaml
----
-layout: post
-title: le_titre_du_projet
-description: un_sous_titre_un_peu_plus_long
+```
+---yaml                                                                    layout: post                                                               title: le_titre_du_projet                                                   description: un_sous_titre_un_peu_plus_long
 img: /img/DVL/DVL_photo1.jpg # un exemple                                   
 --- 
 ```
@@ -170,8 +163,19 @@ Les metadonnées de cette page ne devraient pas être modifiées. Mais à part �
 
 ### Modifier le Footer
 
-TODO
+Le fcode HTML du footer se situe dans le fichier `_include/footer`
 
-### Modifier le CSS (Sass, Scss)
+### Modifier le CSS (Scss)
 
-TODO
+> 📝 Le site est codé en utilisant une technologie au dessus du CSS qui s'appelle un préprocesseur. L'idée derrière le préprocessuer est d'augmenter les capacités expressives d'un langage. Dans notre cas, le `scss`. Il y a donc des fichiers `.scss` (par exemple `css/main.scss`). Ces fichiers `.scss` sont ensuite compilés (lire : transformés) en fichiers `.css` lorsque le site est déployé. La bonne nouvelle c'est qu'en écrivant du CSS classqiue dans un fichier `.scss`, ça se passe très bien.
+
+Pour modifier le css, il faut aller modifier l'un de ces 4 fichiers `.scss` :
+ - `css/main.scss` - Un fichier qui contient exclusivement des variables et paramètres
+ - `_sass/` - Le dossier qui contient les "vrais" styles  
+	 - `_sass/_syntax-highlighting.scss` - Contient exclusivement les styles des syntaxes liés au Markdown
+	 - `_sass/_layout.scss` - Contient les styles liés aux mises en pages spécifiques (header, footer, projets, etc.)
+	 - `_sass/_base.scss` - Contient le reste (la majorité) des styles et variables
+
+>⚠️ Le `.scss` introduit des variable, qu'il est préférable d'utiliser à des modifications ad-hoc. Pour cette raison, parcourir le début de chacun de ces fichiers avant de faire une modification de style peut s'avérer une stratégie payante. Par exemple, modifier la variable `$base-line-height` permettra de changer la hauteur du trait sur tout le site d'un seul coup, plutôt que d'aller modifier les styles des classes un par un.
+
+Je reste disponible pour toute question sur les styles !
