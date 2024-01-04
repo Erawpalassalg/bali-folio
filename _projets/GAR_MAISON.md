@@ -14,7 +14,7 @@ date: 2023-05-01
 LIEU                Vigneux-de-Bretagne (44)
 DATE                livraison fin 2023
 PROGRAMME           rénovation d’une maison individuelle
-MOA  		    privée
+MOA                 privée
 SURFACE             208 m²
 BUDGET              340 k€ HT
 MISSION             complète
