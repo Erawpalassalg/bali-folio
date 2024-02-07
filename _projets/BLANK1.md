@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BAU
+title: BLANK1
 description: Collectif
 img: /img/wBAU/BAU_01.jpg
 date: 2023-02-00
