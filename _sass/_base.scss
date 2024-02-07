@@ -200,8 +200,8 @@ pre {
  */ 
 
 .wrapper {
-    max-width: -webkit-calc(50% - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(50% - (#{$horizontal-spacing-unit} * 2));
+    max-width: -webkit-calc(70% - (#{$horizontal-spacing-unit} * 2));
+    max-width:         calc(70% - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
