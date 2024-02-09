@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GLI
+title: GIL
 description: La halte de la Gilarderie
 img: /img/wGIL/GIL_thumbnail.gif
 date: 2023-06-01
