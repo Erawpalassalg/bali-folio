@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projets 
+title: 
 permalink: /
 navpos: 1
 ---
