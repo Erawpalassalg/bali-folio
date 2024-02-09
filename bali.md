@@ -1,6 +1,6 @@
 ---
 layout: page
-title: studio bali architectes 
+title: bali 
 permalink: /bali/
 navpos: 0
 ---
