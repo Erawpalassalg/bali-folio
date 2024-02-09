@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nouvelles
+title: 
 permalink: /nouvelles/
 navpos: 2
 ---
