@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BLANK1
-description: espace
-img: /img/wBAU/BAU_01.jpg
+title: 
+description: 
+img: 
 date: 2023-02-01
 ---
 
