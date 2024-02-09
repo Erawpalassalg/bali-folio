@@ -243,8 +243,8 @@ height: auto;
 position: relative;
 left: -25%;
 top: -5%;
-  @include media-query(400px) {
-    left: -40%;
+  @include media-query(100%) {
+    left: 0%;
   }
 }
 .thumbnail a{
