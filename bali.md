@@ -5,7 +5,7 @@ permalink: /bali/
 navpos: 0
 ---
 
-<img class="col three right" src="{{site.baseurl}}/img/wBALI/photo1.jpg"> <br><br>
+<img class="col three right" src="{{site.baseurl}}/img/wBALI/photo1.jpg"> <br><br><br>
 
 **studio bali** est un atelier d’architecture engagé pour la construction d’une architecture saine, durable et vertueuse, dans le respect de la nature et du vivant. <br><br>
 **studio bali** porte des projets à forte dimension sociale et oeuvre pour une fabrique coopérative de la ville et des territoires.<br><br>
@@ -13,6 +13,7 @@ navpos: 0
 **studio bali** développe une expertise de réhabilitation du bâti ancien et récent dans le cadre de rénovations lourdes (rénovation thermique, transformation, augmentation).<br><br>
 **studio bali** intervient à toutes les échelles de projet, de l’étude préliminaire à la mission complète, mais aussi dans l’organisation et l’encadrement de chantiers participatifs.<br><br>
 **studio bali** accompagne les auto-constructeurs dans leurs projets individuels ou collectifs.<br><br>
+**studio bali** est membre du réseau d'écoconstruction ECHOBAT
 **studio bali** est membre du RFCP (Réseau Français de la Construction Paille).
 
 <br>
@@ -38,7 +39,7 @@ pour des personnes exilées<br>
 Une Famille Un Toit 44 | Nantes (44) </FONT></div></p>
 
 <br>
-**<FONT size="4em"> | LIEU DE CREATION</FONT>**
+#**| LIEU DE CREATION**
 
 <p><div style="line-height:1;"><FONT size="2em"> DVL </FONT><br>
 <FONT size="1em">atelier et jardin de l’artiste Livia Deville en bord de Sèvre<br>
@@ -58,7 +59,7 @@ conception d’une toue nantaise atelier d’artiste<br>
 commande privée | Nantes (44) </FONT></div></p>
 
 <br>
-**<FONT size="4em"> | TIERS-LIEUX</FONT>**
+# **| TIERS-LIEUX**
 
 <p><div style="line-height:1;"><FONT size="2em"> BALI </FONT><br>
 <FONT size="1em">transformation d’un hangar industriel en tiers-lieu alimentaire -<br>
