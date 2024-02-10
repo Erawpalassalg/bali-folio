@@ -38,6 +38,16 @@ pour des personnes exilées<br>
 **443 m2 sp | 480 k€ ht | chantier en cours** <br>
 Une Famille Un Toit 44 | Nantes (44) </FONT></div></p>
 
+<p><div style="line-height:1;"><FONT size="2em"> AJM </FONT><br>
+<FONT size="1em">transformation d'un manoir en logements collectifs<br>
+**455 m2 sp | 1.2 M€ ht | chantier en cours** <br>
+Groupe CIR | AUray (56) </FONT></div></p>
+
+<p><div style="line-height:1;"><FONT size="2em"> LAM </FONT><br>
+<FONT size="1em">transformation d'un ancien presbytère en logements collectifs<br>
+**560 m2 sp | 1.4 M€ ht | étude en cours** <br>
+Groupe CIR | AUray (56) </FONT></div></p>
+
 <br>
 # | LIEU DE CREATION
 
